@@ -1,22 +1,12 @@
 <div class="cell markdown" id="vXanSOKTgEIK">
 
 <img src="https://api-frontend.kemdikbud.go.id/v2/detail_pt_logo/ODcyMEY5MkMtREQyMi00RDU3LUI3MEItNTZDNzJFNUVGREMw" width="75"/>
-<h1 id="judul"><b>Tugas Kelompok Algoritma</b></h1> <h3>Implementasi
-algoritma dan studi kasus</h3>
+<h1 id="judul"><b>Implementasi Logika Fuzzy</b></h1> <h3>Implementasi
+algoritma dan studi kasus pada mata kuliah Kecerdasan Buatan</h3>
 
 ![nama](https://img.shields.io/badge/Ketua-Muhammad%20Ali%20Pratama%20Putra-blue)
 ![nim](https://img.shields.io/badge/NIM-5220411416-lightgrey)
 ![matkul](https://img.shields.io/badge/Mata%20Kuliah-Kecerdasan%20Buatan-lightgrey)
-
-### **Anggota kelompok**
-
-| NIM        | Nama                 |
-|------------|----------------------|
-| 5220411415 | M. ALI PRATAMA PUTRA |
-| 5220411433 | AKHMAD ZAQI RIYADI   |
-| 5220411414 | M. HASBI ASHSHIDDIQI |
-| 5220411419 | M. SAIFUL ANWAR      |
-| 5220411444 | M. ROHMAD NURYANTO   |
 
 ------------------------------------------------------------------------
 
